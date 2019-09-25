@@ -1,0 +1,9 @@
+➜  ~ cd Desktop
+➜  Desktop mkdir MH8811_02
+➜  Desktop cd MH8811_02
+➜  MH8811_02 touch "my file.py"
+➜  MH8811_02 ls
+my file.py
+➜  MH8811_02 cd ..
+➜  Desktop rm -rf MH8811_02
+➜  Desktop
